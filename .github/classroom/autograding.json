@@ -3,8 +3,8 @@
     {
       "name": "IOTest",
       "setup": "",
-      "run": "python main.py",
-      "input": "--number 15",
+      "run": "python main.py --number 15",
+      "input": "",
       "output": "15",
       "comparison": "included",
       "timeout": 1,
