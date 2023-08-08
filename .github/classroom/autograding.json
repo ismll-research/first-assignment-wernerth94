@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 1,
       "points": null
+    },
+    {
+      "name": "pytest&#45;test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
     }
   ]
 }
