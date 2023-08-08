@@ -6,3 +6,6 @@ class TryTesting(TestCase):
 
     def test_always_fails(self):
         self.assertTrue(False)
+
+if __name__ == '__main__':
+    print(5)
