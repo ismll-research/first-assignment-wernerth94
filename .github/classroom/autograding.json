@@ -11,9 +11,9 @@
       "points": null
     },
     {
-      "name": "pytest&#38;&#35;45&#59;test",
+      "name": "pytest",
       "setup": "sudo -H pip3 install pytest",
-      "run": "python -m unittest discover",
+      "run": "pytest",
       "input": "",
       "output": "",
       "comparison": "included",
