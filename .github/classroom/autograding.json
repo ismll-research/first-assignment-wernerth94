@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "IOTest",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
