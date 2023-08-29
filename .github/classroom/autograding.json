@@ -6,7 +6,7 @@
       "run": "python main.py --number 15",
       "input": "",
       "output": "15",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 1,
       "points": null
     },
@@ -16,7 +16,7 @@
       "run": "pytest",
       "input": "",
       "output": "",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 1,
       "points": null
     }
